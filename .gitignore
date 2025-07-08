@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# Editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup/temp files
+*~
+*.swp
+*.swo
+*.tmp
+
+# User generated History folder
+/History/
